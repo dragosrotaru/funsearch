@@ -10,7 +10,7 @@ I also have a WebGPU Implementation in TypeScript: https://github.com/dragosrota
 
 Network is not generalizing, WIP on the shader code.
 
-I want to build a human-ai symbiosis workspace for decentralized science.
+I want to build a human-ai symbiosis workspace for programming and mathematics. I want to align the system towards adding more intelligence capabilities to itself, in order to acieve ASI.
 
 See my previous work at Anytype: https://anytype.io
 
