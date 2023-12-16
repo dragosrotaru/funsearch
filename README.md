@@ -12,7 +12,9 @@ Network is not generalizing, WIP on the shader code.
 
 I want to build a human-ai symbiosis workspace for programming and mathematics. I want to align the system towards adding more intelligence capabilities to itself, in order to acieve ASI.
 
-See my previous work at Anytype: https://anytype.io
+Previously I worked at Anytype: https://anytype.io
+
+I envision organic programming and UI moulding around each individual person. Programming will become 100% speaking to AI.
 
 As well as my futile exercise in reimagining the World Wide Web and Personal Computing in hindsight: https://github.com/dragosrotaru/hyper.git 
 
