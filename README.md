@@ -20,7 +20,7 @@ I want to use metacircular evaluator towers for program synthesis to fine tune a
 
 And I want to build a semantic scholar knowledge system trained on Arxiv to feed into it.
 
-Decentralized Science, lets go people!
+Decentralized Science and Force Multipliers, lets go people!
 
 Lots more research ideas. stay tuned.
 
