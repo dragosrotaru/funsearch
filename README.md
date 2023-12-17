@@ -8,7 +8,7 @@ The point of curiosity is, what does a meta-circular AI look like?
 This is why I want to combine the basic Funseach concept with my custom Lisp program human-ai programming symbiosis experiment: https://github.com/dragosrotaru/PAL.git
 
 In Pal, an LLM is embedded as a special form in the language and the evaluator has read/write access to its own source code. Every object in memory is automatically mapped to the filesystem namespace,
-And file extensions are 1:1 mapped with the TypeSystem. Additionally, any data/code structure has a 1:1 representation as a web page.
+And file extensions are 1:1 mapped with the TypeSystem. The LLM is fed BNF notation of the language in the prompt, along with the evaluator code.  Additionally, any data/code structure has a 1:1 representation as a web page.
 
 The entire environment of the Program is 1:1 mapped with the FileSystem.
 
