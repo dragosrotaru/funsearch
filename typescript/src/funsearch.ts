@@ -9,7 +9,7 @@ import { textToProgram, yieldDecorated } from "./code-manipulation/parser.ts";
  * @param specification
  * @returns
  */
-function extractFunctionNames(specification: string): [string, string] {
+export function extractFunctionNames(specification: string): [string, string] {
   const runFunctions = [...yieldDecorated(specification, "funsearch", "run")];
 
   if (runFunctions.length !== 1) {
